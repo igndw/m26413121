@@ -1,0 +1,20 @@
+  862  git clone https://github.com/igndw/Latihan.git
+  863  ls -al
+  864  cd Latihan
+  865  ls- al
+  866  cat /etc/passwd
+  867  ls $HOME
+  868  date
+  869  cat /etc/group
+  870  ls $HOME
+  871  date month/day/year
+  872  basename /usr/share/doc/
+  873  cat /etc/services
+  874  less
+  875  q
+  876  date
+  877  cat /etc/services | sort | less
+  878  date -s
+  879  date -s "3/1/2017 9:05:00"
+  880  date -s "Today is Wed March 3 9:07:00 PDT 2017"
+  881  history
