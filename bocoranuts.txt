@@ -1,0 +1,3 @@
+cara menghitung git log $(git log | wc-l)
+dgn operasi pembagian : echo $[$(git log | wc -l)/6]
+dgn operasi penjumlahan : echo$[($(git log | wc -l)+1)/6]
