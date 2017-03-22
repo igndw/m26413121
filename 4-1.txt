@@ -1,0 +1,4 @@
+cara membuat ssh agar tdk perlu login
+cd .ssh -> cat id_rsa.pub -> copas key nya
+buka public key yg ada di folder yg ada lalu di buka dan di copas ke dlm ssh
+bila sdh di exit
