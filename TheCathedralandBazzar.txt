@@ -1,0 +1,35 @@
+Artikel The Cathedral and The Bazaar pertama di tulis pada tahun 1997. The Cathedral dan The Bazaar ini merupakan dua model berbeda.
+- The Cathedral : memiliki model yang klasik
+  1. lingkungan tertutup
+  2. sekelompok kecil pemimpin / pengembang
+  3. digunakan dalam proyek-proyek OSS. Contoh: GCC,GNU emacs
+  
+- the Bazaar : model yang diperkenalkan oleh Linus Torvalds
+  1. lingkungan terbuka, hampir semua orang dapat berpartisipasi
+  2. there are no clear leaders, udenfined number of developers
+  3. however, there is a benevolent-dictator figure
+  4. release early, release often. Contoh: Linux
+  
+  bagaimana Eric memperlakukan si pengguna:
+- treat users as most important resource
+1. turns them into the most important resource 
+2. writing a piece of the final project
+3. debugging
+4. code improvement 
+
+Eric's problem was that he needed a POP protocol client to work with and he found an abandoned one. the problem was the 
+continuation of the abandoned client, and eric took it over and started to coordinate it.
+
+Every good work of software starts by scratching a developers personal itch
+  1. most successful free software projects have been started by developers with needs addressed by their "pet" project
+  2. in the world of proprietary software, programmers spend their time building programs that they neither need nor want
+  3. this motivaton could explain the highquality of result given by linux
+
+Eric.S Raymond berhasil mencoba dengan prinsip-prinsip berikut:
+  1. releasing early and often 
+  2. adding to the beta list to everyone who contacted him about the implemented program
+  3. announcing new releases to the beta list, stimulating people to participate
+  4. listening to beta-testers, polling them about design decisions and taking in consideration patches and other feedback sent by them
+Memang Eric memiliki banyak kendala tetapi dia berhasil dan gara-gara buku ini, Netscape merilis source codenya dan memasuki dunia open 
+source. Meskipun belakangan proyeknya Mozilla kurang sukses karena banyak faktor. ESR menyusun buku ini dengan mengambil contoh uji coba dia dengan fetchmail. Fetchmail ini
+dikembangkan dengan metode pengembangan yang dia sebut bazaar, dari pengamatannya terhadap Linus yang revolusioner itu.
